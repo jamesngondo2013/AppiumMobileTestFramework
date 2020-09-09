@@ -1,0 +1,31 @@
+[Android_OnePlus INFO ] 2020-09-09 15:22:05.296 ServerManager:20 - starting appium server
+[Android_OnePlus INFO ] 2020-09-09 15:22:07.096 ServerManager:29 - Appium server started
+[Android_OnePlus INFO ] 2020-09-09 15:22:07.096 DriverManager:28 - initializing Appium driver
+[Android_OnePlus INFO ] 2020-09-09 15:22:07.115 PropertyManager:17 - loading config properties
+[Android_OnePlus INFO ] 2020-09-09 15:22:07.117 CapabilitiesManager:18 - getting capabilities
+[Android_OnePlus INFO ] 2020-09-09 15:22:07.118 CapabilitiesManager:34 - appUrl isC:\Users\james\Documents\appium-cucumberbdd-master\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_OnePlus INFO ] 2020-09-09 15:22:21.486 DriverManager:40 - Driver is initialized
+[Android_OnePlus INFO ] 2020-09-09 15:22:23.851 BasePage:71 - login with invalidUsername
+[Android_OnePlus INFO ] 2020-09-09 15:22:25.649 BasePage:71 - password is secret_sauce
+[Android_OnePlus INFO ] 2020-09-09 15:22:26.260 BasePage:54 - press login button
+[Android_OnePlus INFO ] 2020-09-09 15:22:27.182 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_OnePlus INFO ] 2020-09-09 15:22:27.633 ServerManager:20 - starting appium server
+[Android_OnePlus INFO ] 2020-09-09 15:22:30.071 ServerManager:29 - Appium server started
+[Android_OnePlus INFO ] 2020-09-09 15:22:30.072 DriverManager:28 - initializing Appium driver
+[Android_OnePlus INFO ] 2020-09-09 15:22:30.072 CapabilitiesManager:18 - getting capabilities
+[Android_OnePlus INFO ] 2020-09-09 15:22:30.072 CapabilitiesManager:34 - appUrl isC:\Users\james\Documents\appium-cucumberbdd-master\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_OnePlus INFO ] 2020-09-09 15:22:37.749 DriverManager:40 - Driver is initialized
+[Android_OnePlus INFO ] 2020-09-09 15:22:39.721 BasePage:71 - login with standard_user
+[Android_OnePlus INFO ] 2020-09-09 15:22:40.893 BasePage:71 - password is invalidPassword
+[Android_OnePlus INFO ] 2020-09-09 15:22:41.968 BasePage:54 - press login button
+[Android_OnePlus INFO ] 2020-09-09 15:22:42.938 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_OnePlus INFO ] 2020-09-09 15:22:43.321 ServerManager:20 - starting appium server
+[Android_OnePlus INFO ] 2020-09-09 15:22:45.097 ServerManager:29 - Appium server started
+[Android_OnePlus INFO ] 2020-09-09 15:22:45.098 DriverManager:28 - initializing Appium driver
+[Android_OnePlus INFO ] 2020-09-09 15:22:45.098 CapabilitiesManager:18 - getting capabilities
+[Android_OnePlus INFO ] 2020-09-09 15:22:45.098 CapabilitiesManager:34 - appUrl isC:\Users\james\Documents\appium-cucumberbdd-master\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_OnePlus INFO ] 2020-09-09 15:22:51.788 DriverManager:40 - Driver is initialized
+[Android_OnePlus INFO ] 2020-09-09 15:22:54.098 BasePage:71 - login with standard_user
+[Android_OnePlus INFO ] 2020-09-09 15:22:55.832 BasePage:71 - password is secret_sauce
+[Android_OnePlus INFO ] 2020-09-09 15:22:56.433 BasePage:54 - press login button
+[Android_OnePlus INFO ] 2020-09-09 15:22:57.922 BasePage:97 - product page title is - PRODUCTS

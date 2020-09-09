@@ -1,0 +1,22 @@
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:31.115 ServerManager:20 - starting appium server
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:34.143 ServerManager:29 - Appium server started
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:34.164 DriverManager:28 - initializing Appium driver
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:34.180 PropertyManager:17 - loading config properties
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:34.181 CapabilitiesManager:18 - getting capabilities
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:34.183 CapabilitiesManager:34 - appUrl isC:\Users\james\Documents\appium-cucumberbdd-master\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:46.274 DriverManager:40 - Driver is initialized
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:49.090 BasePage:71 - login with invalidUsername
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:50.972 BasePage:71 - password is secret_sauce
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:52.084 BasePage:54 - press login button
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:53.033 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:53.877 VideoManager:35 - video path: Android_MyPixel 2\Videos\Login with invalid user name.mp4
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:55.104 BasePage:71 - login with standard_user
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:56.773 BasePage:71 - password is invalidPassword
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:57.439 BasePage:54 - press login button
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:58.141 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_MyPixel 2 INFO ] 2020-09-09 19:11:59.248 VideoManager:35 - video path: Android_MyPixel 2\Videos\Login with invalid password.mp4
+[Android_MyPixel 2 INFO ] 2020-09-09 19:12:00.537 BasePage:71 - login with standard_user
+[Android_MyPixel 2 INFO ] 2020-09-09 19:12:01.843 BasePage:71 - password is secret_sauce
+[Android_MyPixel 2 INFO ] 2020-09-09 19:12:02.423 BasePage:54 - press login button
+[Android_MyPixel 2 INFO ] 2020-09-09 19:12:04.177 BasePage:97 - product page title is - PRODUCTS
+[Android_MyPixel 2 INFO ] 2020-09-09 19:12:05.118 VideoManager:35 - video path: Android_MyPixel 2\Videos\Login with valid user name and password.mp4

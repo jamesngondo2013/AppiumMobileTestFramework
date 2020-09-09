@@ -1,0 +1,1 @@
+C:\Users\james\Documents\GitHub\AppiumMobileTestFramework\appium-cucumberbdd-master> mvn test -DplatformName="Android" -Dudid="emulator-5554" -DdeviceName="MyPixel 2" -DsystemPort="10000" -DchromeDriverPort="11000"
